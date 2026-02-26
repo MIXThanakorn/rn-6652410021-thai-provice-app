@@ -1,50 +1,42 @@
-# Welcome to your Expo app 👋
+<h1 align="center">Buriram Provice App</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+แอปพลิเคชันแนะนำสถานที่ท่องเที่ยว ร้านอาหาร คาเฟ่ วัด และงานเทศกาลในจังหวัดบุรีรัมย์
+</p>
 
-## Get started
+<hr>
 
-1. Install dependencies
+<h2>หน้าจอทั้งหมด</h2>
 
-   ```bash
-   npm install
-   ```
+<br>
 
-2. Start the app
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84358c20-dbd6-4a8d-b2f5-8e48a5e70af7" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b3e65b50-8342-4007-9079-0d551919707f" width="250"/>
+</p>
 
-   ```bash
-   npx expo start
-   ```
+<br>
 
-In the output, you'll find options to open the app in a
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7edcf7e-b2a7-4bed-b443-60d2da3cfe56" width="250"/>
+  <img src="https://github.com/user-attachments/assets/9e18b0df-a4e8-4a3b-9710-267e34ea1dd3" width="250"/>
+</p>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+<br>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca7c2513-8fcd-4ac1-b0ac-1f28c909d4c2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b38256a9-b1be-483a-8b81-d41cbb495114" width="250"/>
+</p>
 
-## Get a fresh project
+<hr>
 
-When you're ready, run:
+<h2>โครงสร้างฐานข้อมูล (Supabase)</h2>
 
-```bash
-npm run reset-project
-```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5c5d038-5975-44d5-af92-2a15ac38b29f" width="800"/>
+</p>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<br>
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
